@@ -1,4 +1,4 @@
-package simply_factory;
+package factory.simply_factory;
 
 public class SimplyFactory {
 

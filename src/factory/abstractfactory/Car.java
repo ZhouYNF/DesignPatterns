@@ -1,4 +1,4 @@
-package abstractfactory;
+package factory.abstractfactory;
 
 public class Car extends Vehicle {
     @Override

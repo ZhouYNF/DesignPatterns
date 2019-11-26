@@ -1,4 +1,4 @@
-package abstractfactory;
+package factory.abstractfactory;
 
 public class ModernFactory extends AbastractFactory {
     @Override

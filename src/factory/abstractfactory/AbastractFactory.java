@@ -1,4 +1,4 @@
-package abstractfactory;
+package factory.abstractfactory;
 
 public abstract class AbastractFactory {
     abstract Food createFood();
