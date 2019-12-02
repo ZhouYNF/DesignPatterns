@@ -6,7 +6,7 @@ import java.util.List;
 public class Servlet_Main {
     public static void main(String[] args) {
         Request request = new Request();
-        request.str = "大家好:)，<script>，欢迎访问 mashibing.com ，大家都是996 ";
+        request.str = "大家好:)，<script>，欢迎访问 xxxxx.com ，大家都是996 ";
         Response response = new Response();
         response.str = "response";
 
