@@ -1,7 +1,7 @@
 package decorator_pattern;
 
 /**
- * 站在喝奶茶的角度看，一杯奶茶由他的价格和原料加配料
+ * 绔欏湪鍠濆ザ鑼剁殑瑙掑害鐪嬶紝涓�鏉ザ鑼剁敱浠栫殑浠锋牸鍜屽師鏂欏姞閰嶆枡
  */
 public interface DrinkMilkTea {
     float getTotalprice();

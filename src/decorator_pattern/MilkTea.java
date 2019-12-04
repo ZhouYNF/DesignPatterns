@@ -1,7 +1,7 @@
 package decorator_pattern;
 
 /**
- * ÕâÀï¶¨ÒåÒ»¸öÄÌ²èµÄ³éÏóÀà
+ *  è¿™é‡Œå®šä¹‰ä¸€ä¸ªå¥¶èŒ¶çš„æŠ½è±¡ç±»
  */
 public abstract class MilkTea implements DrinkMilkTea {
     @Override

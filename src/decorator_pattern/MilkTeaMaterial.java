@@ -1,7 +1,7 @@
 package decorator_pattern;
 
 /**
- * 这里定义增加配料的抽象类
+ * 杩欓噷瀹氫箟澧炲姞閰嶆枡鐨勬娊璞＄被
  */
 public abstract class MilkTeaMaterial implements DrinkMilkTea {
     public DrinkMilkTea drinkMilkTea;
