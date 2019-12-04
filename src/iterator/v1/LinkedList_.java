@@ -15,6 +15,7 @@ class LinkedList_<E> implements Collection_<E> {
 
     /**
      * 创建添加节点的方法
+     *
      * @param o
      */
     public void add(E o) {
