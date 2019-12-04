@@ -29,6 +29,7 @@ public class Main {
         while(iterator.hasNext()) {
             String o = iterator.next();
             System.out.println(o);
+
         }
     }
 }
