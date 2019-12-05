@@ -6,7 +6,7 @@ package singletonpattern;
  *类加载到内存后，就实例化一个单例对象，JVM保证线程安全
  * 缺点：不管使用与否，类装载时就会被实例化
  *
- * 
+ *
  */
 public class Demo1 {
     private static final Demo1 demo = new Demo1();
