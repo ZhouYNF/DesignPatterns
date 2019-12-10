@@ -4,6 +4,7 @@ package state.money;
 /**
  * 各种具体的实现类
  */
+//反馈状态
 class FeedBackState extends AbstractState {
 
     @Override
@@ -12,6 +13,10 @@ class FeedBackState extends AbstractState {
     }
 }
 
+
+/**
+ * 生成状态
+ */
 class GenerateState extends AbstractState {
 
     @Override
@@ -30,6 +35,9 @@ class GenerateState extends AbstractState {
     }
 }
 
+/**
+ * 非支付状态
+ */
 class NotPayState extends AbstractState {
 
     @Override
@@ -48,6 +56,9 @@ class NotPayState extends AbstractState {
     }
 }
 
+/**
+ * 付费状态
+ */
 class PaidState extends AbstractState {
 
     @Override
@@ -61,6 +72,9 @@ class PaidState extends AbstractState {
     }
 }
 
+/**
+ * 发布状态
+ */
 class PublishState extends AbstractState {
 
     @Override
@@ -81,6 +95,9 @@ class PublishState extends AbstractState {
     }
 }
 
+/**
+ * 审查状态
+ */
 class ReviewState extends AbstractState {
 
     @Override
